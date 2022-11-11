@@ -64,7 +64,7 @@
         </div>
         <!-- banner1 -->
         <div class="px-4 md:px-5">
-            <img class="w-full object-cover" src="https://cdn.tgdd.vn/hoi-dap/1355217/banner-tgdd-800x300.jpg" alt="">
+            <img class="w-full object-cover" src="https://cdn.tgdd.vn/Files/2015/12/03/751514/tgdd-online-friday-800-300-1.jpg" alt="">
         </div>
         <!-- main -->
         <div class="my-8 px-4 md:px-5 md:mt-10 md:mb-[118px] lg:px-4 lg:my-[64px]">
